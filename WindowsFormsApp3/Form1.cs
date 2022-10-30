@@ -18,8 +18,9 @@ namespace WindowsFormsApp3
         double memorycount = 0;
         int memory = 5000;
         int datagridrows = 0;
-        int segmentscount = 10;
         int segmentsintotal = 0;
+        int segmentscount = 10;
+        
         public Form1()
         {
             InitializeComponent();

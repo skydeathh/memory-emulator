@@ -73,7 +73,7 @@ namespace WindowsFormsApp3
              e.Graphics.FillRectangle(brush, 2, 2, rec.Width, rec.Height);
          }
      }*/
-    //Property to set to decide whether to print a % or Text123123123123
+    //Property to set to decide whether to print a % or Text
     public class ProgressBarEx : ProgressBar
     {
         public ProgressBarDisplayText DisplayStyle { get; set; }
